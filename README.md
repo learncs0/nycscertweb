@@ -1,6 +1,8 @@
 # nycscertweb
- Programming in Java <br/>
-    code from Nim that I understand <br/>
+ ## This page will highlight learning in the CS Certification Course
+ 
+ ### 1.  Programming in Java <br/>
+    #### code from Nim that I understand <br/>
                 public class Nim{ <br/>
                   public static void main(String[] args){ <br/>
             //create variable to store the number of stones <br/>
