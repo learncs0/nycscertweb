@@ -40,7 +40,6 @@ public class Nim{
 ### Course 2: Data Structures <br/>
 Maze program with Eric L, Michelle B  <br/>
 Here is a screenshot of a portion of the code <br/>
-![Screenshot](Screen Shot 2021-07-22 at 6.53.19 PM.png)
-
+![alt text](https://github.com/learncs0/nycscertweb/blob/main/Screen%20Shot%202021-07-22%20at%206.53.19%20PM.png)
  
  ### Course 3:  Methods I <br/>
