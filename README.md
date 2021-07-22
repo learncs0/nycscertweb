@@ -1,12 +1,16 @@
 # nycscertweb
- ## This page will highlight learning in the CS Certification Course
+
+
+## This page will highlight learning in 3 courses of CS Certification Program
+1. Programming in Java
+2. Data Structrues
+3. Methods I
  
 
- 1.  Couurse 1:  Programming in Java <br/>
- Nim program with with Benson Chaouiki Dwayne & Lyuba  <br/>
-                
-                 ```javascript
-                 import java.io.*;
+###Course 1:  Programming in Java <br/>
+Nim program with with Benson Chaouiki Dwayne & Lyuba  <br/>
+```javascript
+import java.io.*;
 import java.util.*;
 import java.util.Scanner; //not necessary
 public class Nim{
@@ -30,7 +34,11 @@ public class Nim{
       {
         System.out.println("Invalid entry.");
       }
-    }```
+    }
+```
+                
+                 
+                 
             
 
  Data Structures <br/>
