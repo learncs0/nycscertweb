@@ -1,7 +1,7 @@
 # nycscertweb
 
 
-## This page will highlight learning in 3 courses of CS Certification Program
+## This page will highlight learning in 3 courses of the CS Certification Program
 1. Programming in Java
 2. Data Structrues
 3. Methods I
@@ -36,12 +36,8 @@ public class Nim{
       }
     }
 ```
-                
-                 
-                 
-            
 
- Data Structures <br/>
+### Course 2: Data Structures <br/>
  
  
  Methods I <br/>
