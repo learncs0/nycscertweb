@@ -43,5 +43,5 @@ Here is a screenshot of a portion of the code <br/>
 ![alt text](https://github.com/learncs0/nycscertweb/blob/main/Screen%20Shot%202021-07-22%20at%206.53.19%20PM.png)
  
  ### Course 3:  Methods I <br/>
- We learned how we could use NetLogo to introduce students to a new programming language
- [https://ccl.northwestern.edu/netlogo/models/] 
+ We learned how we could use NetLogo to introduce students to a new programming language <br/>
+ [Here's a link to the NetLogo visualizations](https://ccl.northwestern.edu/netlogo/models/) 
