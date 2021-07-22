@@ -44,4 +44,4 @@ Here is a screenshot of a portion of the code <br/>
  
  ### Course 3:  Methods I <br/>
  We learned how we could use NetLogo to introduce students to a new programming language
- [Here's a link to the models/visualization] https://ccl.northwestern.edu/netlogo/models/
+ [https://ccl.northwestern.edu/netlogo/models/] 
