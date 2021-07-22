@@ -38,6 +38,9 @@ public class Nim{
 ```
 
 ### Course 2: Data Structures <br/>
+Maze program with Eric L, Michelle B
+
+
  
  
  Methods I <br/>
