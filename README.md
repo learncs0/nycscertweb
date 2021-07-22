@@ -43,5 +43,4 @@ Here is a screenshot of a portion of the code <br/>
 ![Screenshot](Screen Shot 2021-07-22 at 6.53.19 PM.png)
 
  
- 
- Methods I <br/>
+ ### Course 3:  Methods I <br/>
