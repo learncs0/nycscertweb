@@ -2,10 +2,11 @@
  ## This page will highlight learning in the CS Certification Course
  
 
- 1.  Programming in Java <br/>
-    #### Nim program with with Benson Chaouiki Dwayne & Lyuba  <br/>
+ 1.  Couurse 1:  Programming in Java <br/>
+ Nim program with with Benson Chaouiki Dwayne & Lyuba  <br/>
                 
-                 ```import java.io.*;
+                 ```javascript
+                 import java.io.*;
 import java.util.*;
 import java.util.Scanner; //not necessary
 public class Nim{
