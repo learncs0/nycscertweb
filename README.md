@@ -4,8 +4,8 @@
 
  1.  Programming in Java <br/>
     #### Nim program with with Benson Chaouiki Dwayne & Lyuba  <br/>
-                ```
-                 import java.io.*;
+                
+                 ```import java.io.*;
 import java.util.*;
 import java.util.Scanner; //not necessary
 public class Nim{
@@ -29,8 +29,8 @@ public class Nim{
       {
         System.out.println("Invalid entry.");
       }
-    }
-            ```
+    }```
+            
 
  Data Structures <br/>
  
