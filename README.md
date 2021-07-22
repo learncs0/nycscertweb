@@ -1,8 +1,9 @@
 # nycscertweb
- ## This page will highlight learning in the CS Certification Course and 
+ ## This page will highlight learning in the CS Certification Course
  
- ### 1.  Programming in Java with Benson Chaouiki Dwayne & Lyuba <br/>
-    #### code from Nim that I understand <br/>
+
+ 1.  Programming in Java <br/>
+    #### Nim program with with Benson Chaouiki Dwayne & Lyuba  <br/>
                 public class Nim{ <br/>
                   public static void main(String[] args){ <br/>
             //create variable to store the number of stones <br/>
