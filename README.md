@@ -4,7 +4,8 @@
 
  1.  Programming in Java <br/>
     #### Nim program with with Benson Chaouiki Dwayne & Lyuba  <br/>
-                public class Nim{ <br/>
+                ```
+                 public class Nim{ <br/>
                   public static void main(String[] args){ <br/>
             //create variable to store the number of stones <br/>
             int stonesRemoved = 0; <br/>
@@ -26,6 +27,7 @@
                 System.out.println("Invalid entry."); <br/>
               } <br/>
             } <br/>
+            ```
 
  Data Structures <br/>
  
