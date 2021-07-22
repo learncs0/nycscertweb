@@ -1,7 +1,7 @@
 # nycscertweb
- Programming in Java
-    code from Nim that I understand
-                public class Nim{
+ Programming in Java <br/>
+    code from Nim that I understand <br/>
+                public class Nim{ <br/>
                   public static void main(String[] args){
             //create variable to store the number of stones
             int stonesRemoved = 0;
