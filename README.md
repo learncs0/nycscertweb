@@ -6,10 +6,6 @@
 2. Data Structrues
 3. Methods I
 
-<p> Note: The instructors in this program are incredibly knowledgable, kind and patient and are encouraging and supportive to beginner students. <p>
- p {
-  color: red;
-}
 
 ### Course 1:  Programming in Java <br/>
 Nim program with with Benson Chaouiki Dwayne & Lyuba  <br/>
