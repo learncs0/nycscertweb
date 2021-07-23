@@ -1,17 +1,12 @@
 # nycscertweb
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
-## This page will highlight learning in 3 courses of the CS Certification Program
-1. Programming in Java
-2. Data Structrues
-3. Methods I
 
+## This page will highlight learning in 3 courses of the CS Certification Program
+```diff
+- 1. Programming in Java
++ 2. Data Structrues
+! 3. Methods I
+```
 
 ### Course 1:  Programming in Java <br/>
 Nim program with with Benson Chaouiki Dwayne & Lyuba  <br/>
