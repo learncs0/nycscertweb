@@ -9,7 +9,7 @@
 ```
 
 ### Course 1:  Programming in Java <br/>
-Nim program with with Benson Chaouiki Dwayne & Lyuba  <br/>
+Nim program with with Benson, Chaouiki, Dwayne & Lyuba  <br/>
 ```javascript
 import java.io.*;
 import java.util.*;
