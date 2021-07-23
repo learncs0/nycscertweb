@@ -44,5 +44,11 @@ Here is a screenshot of a portion of the code <br/>
 ![alt text](https://github.com/learncs0/nycscertweb/blob/main/Screen%20Shot%202021-07-22%20at%206.53.19%20PM.png)
  
  ### Course 3:  Methods I <br/>
+ 
+ I really liked Tiffany and Jiyoon's unplugged activty on objects, class and attirbutes.  <br/>
+ [Here's the link to the activity](https://github.com/hunter-teacher-cert/work_csci70900-twong-cs/blob/master/meth1/06_unplugged.txt)
+ 
  We learned how we could use NetLogo to introduce students to a new programming language <br/>
  [Here's a link to the NetLogo visualizations](https://ccl.northwestern.edu/netlogo/models/) 
+ 
+ 
