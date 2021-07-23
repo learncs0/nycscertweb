@@ -1,7 +1,8 @@
 # nycscertweb
 
-
-## This page will highlight learning in 3 courses of the CS Certification Program
+```diff
+@@ ## This page will highlight learning in 3 courses of the CS Certification Program
+```
 ```diff
 - 1. Programming in Java
 + 2. Data Structrues
